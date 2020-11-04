@@ -1,5 +1,9 @@
 hello
 hello2
 
+<<<<<<< HEAD
 
 otro cambio desde rama-1
+=======
+Hola cambio para rama
+>>>>>>> mi-rama
