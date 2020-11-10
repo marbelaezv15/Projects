@@ -1,0 +1,33 @@
+
+.parrafos{
+  background-color: #ffcccc;
+  font-family: serif  ;
+}
+#title {
+  color: #ff0040;
+  font-size: 50px;
+  font-weight: bold;
+}
+#title2{
+  color: #bf00ff;
+  font-size: 25px;
+  font-weight: bold;
+}
+.items{
+  background-color:#ff8080;
+  font-family: serif  ;
+}
+
+#dia{
+  color: #ff0000;
+}
+
+table, tr, td, th{
+  border: 1px solid #333;
+  border-collapse: collapse;
+}
+
+#tabla2{
+  border: 1px solid red;
+  border-collapse: collapse;
+}
